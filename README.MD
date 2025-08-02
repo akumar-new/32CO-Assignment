@@ -19,4 +19,4 @@ Complete terraform files to create EKS in AWS VPC is available in the `eks-insta
 
 ### Documentation
 
-- For any additional help, Terraform official documentation for AWS Provider is the best place.
+- For any additional help,Took help from Terrafor Documentation.
